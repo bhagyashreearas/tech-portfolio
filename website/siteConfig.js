@@ -68,7 +68,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'www.linkedin.com/in/bhagyashreearas20592',
-        twitter: '',
+        twitter: 'https://twitter.com/BhagyashreeAras',
         github: 'https://github.com/bhagyashreearas',
     },
 
