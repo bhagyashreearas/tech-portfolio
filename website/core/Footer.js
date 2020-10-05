@@ -29,7 +29,7 @@ class Footer extends React.Component {
             <img alt="GitHub" src={this.props.config.baseUrl + "img/github.svg"}></img>
           </a>
         </section>
-        <section className="copyright">Technical portfolio of Bhagyashree Aras.</section>
+        <section className="copyright">{this.props.config.copyright} {this.props.config.title}. Created with Docusaurus.</section>
       </footer>
     );
   }
