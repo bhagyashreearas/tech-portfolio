@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'www.linkedin.com/in/bhagyashreearas20592',
+        linkedin: 'https://www.linkedin.com/in/bhagyashreearas20592/',
         twitter: 'https://twitter.com/BhagyashreeAras',
         github: 'https://github.com/bhagyashreearas',
     },
