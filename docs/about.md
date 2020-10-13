@@ -3,30 +3,27 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+I am Bhagyashree Aras, a graduate student at Seattle University, Washington, majoring in Computer Science. I have more than an 18-month industry working experience as a System analyst after I obtained my first master’s degree(MBA). During my industry experience, I developed an interest in the technical domain thus took a transition to the computer science field to develop an understanding of software engineering. Currently, I am looking for an internship as a Software Engineer. I am a solid software developer with a bunch of development experience in C++, Java, Python. 
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
+1. Graduate Representative of SU ACM(Association of Computing Machinery).
+2. Volunteer work at Farmer Frog as a SalesForce specialist.
+3. I believe, if you think you can do it. You will do it. So no need to limit yourself. 
+4. I love talking, reading, writing, dancing, painting, sketching, and cooking. Cooking is like therapy to me. Eventually, my interest turned to food blogging. In      the year 2020, I started Delish Platter (https://delishplatter.com/).
 
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Graduate student at Seattle University
+Graduate Representative of SU ACM
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
+- SAP Certified Application Associate - Sales and Distribution, ERP 6.0 EhP6
+- Honor's degree in Bachelor of Engineering 2010-2014
+
 
 ## Social Media
 
-- Twitter
-- LinkedIn
-- GitHub
+- Twitter : @BhagyashreeAras
+- LinkedIn : www.linkedin.com/in/bhagyashreearas20592
+- GitHub : https://github.com/bhagyashreearas
